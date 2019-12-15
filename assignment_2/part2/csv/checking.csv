@@ -1,0 +1,4 @@
+"0","1000","2000","3000","4000","5000","6000"
+"ZAAAAAAAAAAAAAAAAAAAAAAAAAAAAA","Merest the precertion the prec","Present to the properity of th","200000000000000000000000000000","n the propendence of the prope","'s democracy the property of t","# a constitution of the Union "
+"0.0005208333333333333","0.40208333333333335","0.46979166666666666","0.5536458333333333","0.5401041666666667","0.5864583333333333","0.5822916666666667"
+"tensor(4.4332, device='cuda:0', grad_fn=<NllLoss2DBackward>)","tensor(2.0806, device='cuda:0', grad_fn=<NllLoss2DBackward>)","tensor(1.8371, device='cuda:0', grad_fn=<NllLoss2DBackward>)","tensor(1.5585, device='cuda:0', grad_fn=<NllLoss2DBackward>)","tensor(1.5613, device='cuda:0', grad_fn=<NllLoss2DBackward>)","tensor(1.4082, device='cuda:0', grad_fn=<NllLoss2DBackward>)","tensor(1.4034, device='cuda:0', grad_fn=<NllLoss2DBackward>)"
